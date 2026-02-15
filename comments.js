@@ -1,4 +1,4 @@
-// simple web server
+// Create web server
 
 const http = require('http');
 
